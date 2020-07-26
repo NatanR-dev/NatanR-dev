@@ -1,3 +1,5 @@
+<img align="right" width="400" height="400" src="https://thumbs.gfycat.com/MediocreHappyLadybird-small.gif">
+
 ### Hi there 👋
 
 My name is <b>Natan Ribeiro<b/> from Paranacity (🇧🇷). I'm a Front-End Developer and unlike the other profiles I will be objective, here is some projects that I made [G21 Cloud](https://g21cloud.com.br) (Cloud Storage) [G Digital Dashboard](https://www.youtube.com/watch?v=dLt7p9ToDew) (Single Page Application) [G21 Search](http://www.g21.com.br) (Brazilian Search Engine) [G Digital Page](https://natanr-dev.github.io/G-Page-SPA-/) (Landing Page) [MaloteWeb](http://www.maloteweb.com.br) (Danfe Online). I'm passionate about open-source projects, I'm working on an open-source project that I will publish soon, follow me on my social networks so as not to miss my updates, links below. 
