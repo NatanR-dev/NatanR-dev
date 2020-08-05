@@ -11,6 +11,7 @@ You can find me on:
 [![Blog Badge](https://img.shields.io/badge/Blog-NatanR.dev-black)](https://natanr.dev)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMlffegSzIq3Ht1sqN5cYkg)](https://www.youtube.com/channel/UCMlffegSzIq3Ht1sqN5cYkg)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/natanribeirocom)](https://twitter.com/natanribeirocom)
+[![Blog Badge](https://img.shields.io/badge/-Curriculum%20-lightgrey)](https://www.scribd.com/document/471399750/Curriculo-de-NatanR-dev?secret_password=gUHc8ofyylBicq9qFraP)
 
 D'you have a project in mind?</br> 
 ☕Hire-me: [natanribeirodeveloper@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=natanribeirodeveloper@gmail.com) 
