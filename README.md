@@ -20,13 +20,13 @@
   </a>
 </p>
 
-## 📘 Reading
+## _$Reading
 - ["The Pragmatic Programmer" by Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052)
 - ["Domain-Driven Design" by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - ["Clean Architecture" by Robert C. Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
 
-## 📝 Blog
+## _$Blog
 - [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l?ref=dailydev)
 - [A deep dive in the Netflix systems architecture.](https://newsletter.techworld-with-milan.com/p/how-does-netflix-manage-to-show-you?ref=dailydev)
 - [JavaScript Celebrates 30 Years: A Brief History](https://deno.com/blog/history-of-javascript)
