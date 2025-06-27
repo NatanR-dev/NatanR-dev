@@ -1,19 +1,33 @@
-<img align="right" width="400" height="400" src="https://thumbs.gfycat.com/MediocreHappyLadybird-small.gif">
+# Sup, I'm Natan! 👋
 
-### <img src="https://i.ibb.co/M9pncdQ/Cxt56dl-CCH.gif">
+**Backend Developer | PHP & NODE**  
+📌 Maringá, Brazil
 
-My name is <b>Natan Ribeiro,<b/> I'm from Paranacity (🇧🇷). <br/>I'm a Full-stack Developer and unlike the other profiles I will be objective, here is some projects that I made:<br/> 🢒[G21 Cloud](https://ibb.co/album/pQrsq3) (Cloud Storage)<br/> 🢒[G Digital Dashboard](https://www.youtube.com/watch?v=dLt7p9ToDew) (Single Page Application) <br/>🢒[G21 Search](https://i.ibb.co/crcDsHV/Screenshot-194.png) (Brazilian Search Engine) <br/>🢒[G Digital Page](https://natanr-dev.github.io/G-Page-FrontEnd/) (Landing Page) <br/>🢒[MaloteWeb](http://www.maloteweb.com.br) (Danfe Online) <br/>🢒[SimpleTorrent](https://i.ibb.co/7p8ZmgC/Screenshot-200.png) (Magnetic Torrent Search Engine) <br/>🢒[Simplezy](http://web.archive.org/web/20170627044309/http://www.simplezy.com/#) (First Version of Search Engine that I sold to G21 Telecom) <br/> 🢒[Enviaki](https://www.facebook.com/Enviaki/videos/939274176185586) (It became G21cloud, I sold to G21 Telecom too) <br/> 🢒[Quintal](https://quintal.netlify.app/index.html) (PWA) <br /> 🢒[Lumen CRUD with Vuejs](https://github.com/NatanR-dev/LumenCRUD-API-WithVueJS). <br/><br/>I'm passionate about open-source projects, I'm working on an open-source project that I will publish soon, follow me on my social networks so as not to miss my updates, links below. 
-
-In my free time I like to play video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) (mainly heavy metal🤘 music) and eventually I like to argue philosophical concepts about life and everything with my friends drinking a little bit of beer (🍺). 
-
-You can find me on:
-
-[![Blog Badge](https://img.shields.io/badge/Blog-NatanR.dev-black)](https://natanr.dev)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMlffegSzIq3Ht1sqN5cYkg)](https://www.youtube.com/channel/UCMlffegSzIq3Ht1sqN5cYkg)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/natanribeirocom)](https://twitter.com/natanribeirocom)
-[![Blog Badge](https://img.shields.io/badge/-Curriculum%20-lightgrey)](https://www.scribd.com/document/471399750/Curriculo-de-NatanR-dev?secret_password=gUHc8ofyylBicq9qFraP)
-
-D'you have a project in mind?</br> 
-☕Hire-me: [natanribeirodeveloper@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=natanribeirodeveloper@gmail.com) 
+## 🐧 Open-Source
+[Built a Vanilla PHP REST API, featuring JWT authentication and CRUD operations.](https://github.com/NatanR-dev/vanilla-php-rest-api)
 
 
+## 🚶‍♂️ Follow me on
+<p>
+  <a href="https://youtube.com/@natanrdev" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Youtube-c14438?style=flat-square&labelColor=c14438&logo=youtube&logoColor=white&link=https://youtube.com/@natanrdev" alt="YouTube Badge" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/natanrdev" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/natanrdev" alt="Twitter Badge" style="max-width: 100%;">
+  </a>
+  <a href="https://linkedin.com/in/natanr-dev" rel="nofollow">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/natanr-dev" alt="LinkedIn Badge" style="max-width: 100%;">
+  </a>
+</p>
+
+## 📘 Reading
+- ["The Pragmatic Programmer" by Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052)
+- ["Domain-Driven Design" by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- ["Clean Architecture" by Robert C. Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+
+
+## 📝 Blog
+- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l?ref=dailydev)
+- [A deep dive in the Netflix systems architecture.](https://newsletter.techworld-with-milan.com/p/how-does-netflix-manage-to-show-you?ref=dailydev)
+- [JavaScript Celebrates 30 Years: A Brief History](https://deno.com/blog/history-of-javascript)
+- [Mastering NestJS: Building Scalable Systems with Abstractions](https://dev.to/nestjs-ninja/mastering-nestjs-building-scalable-systems-with-abstractions-ex-different-databases-5cen)
