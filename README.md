@@ -12,9 +12,9 @@
   /home/natan > Last updated: Sat Jun 28 00:35 -03 2025
 [Connection established!]
 
-<strong>natan@serverr:~$ cd /projects/open-source</strong>
+<strong>natan@server:~$ cd /projects/open-source</strong>
 [DIR NOT FOUND... Redirecting...] 
-  /projects/open-source > natan@geocities:~$ git clone https://github.com/NatanR-dev/vanilla-php-rest-api
+  /projects/open-source > natan@server:~$ git clone https://github.com/NatanR-dev/vanilla-php-rest-api
   /projects/open-source > Built a Vanilla PHP REST API, featuring JWT authentication and CRUD operations.
 
 <strong>natan@server:~$ dir /social</strong>
@@ -25,7 +25,7 @@
 /social/follow > LinkedIn: <a href="https://linkedin.com/in/natanr-dev" style="color: #0ff;">[LinkedIn.htm]</a>
 +------------------------+
 
-<strong>natan@geocities:~$ dir /reading/books</strong>
+<strong>natan@server:~$ dir /reading/books</strong>
 +---- Reading Books ----+
   /reading/books > $_Reading
   /reading/books > [Pragmatic Programmer.txt] <a href="https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052" style="color: #0ff;">by Andrew Hunt</a>
