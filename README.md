@@ -34,10 +34,10 @@
 
 <strong>natan@server:~$ dir /social</strong>
 +---- Social Directory ----+
-/social > o--> Follow me on
-/social/follow > YouTube: <a href="https://youtube.com/@natanrdev" style="color: #0ff;">[YouTube.htm]</a>
-/social/follow > Twitter: <a href="https://twitter.com/natanrdev" style="color: #0ff;">[Twitter.htm]</a>
-/social/follow > LinkedIn: <a href="https://linkedin.com/in/natanr-dev" style="color: #0ff;">[LinkedIn.htm]</a>
+  /social > o--> Follow me on
+  /social/follow > YouTube: <a href="https://youtube.com/@natanrdev" style="color: #0ff;">[YouTube.htm]</a>
+  /social/follow > Twitter: <a href="https://twitter.com/natanrdev" style="color: #0ff;">[Twitter.htm]</a>
+  /social/follow > LinkedIn: <a href="https://linkedin.com/in/natanr-dev" style="color: #0ff;">[LinkedIn.htm]</a>
 +------------------------+
 
 <strong>natan@server:~$ dir /reading/books</strong>
