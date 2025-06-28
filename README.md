@@ -1,7 +1,7 @@
 <pre style="font-family: 'Courier New', monospace; background: #000; color: #0f0; padding: 10px; font-size: larger;">
 <code>
 +-------------------------------------+
-| Welcome to natan@server:~/$      |
+|    Welcome to natan@server:~/$      |
 +-------------------------------------+
 ⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠉⠁⠀⠀⠀⠀⠈⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿
