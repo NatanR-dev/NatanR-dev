@@ -30,7 +30,7 @@
 
 <strong>natan@server:~$ cd /projects/open-source</strong>
 [DIR NOT FOUND... Redirecting...] 
-  /projects/open-source > natan@server:~$ git clone https://github.com/NatanR-dev/vanilla-php-rest-api
+  /projects/open-source > natan@server:~$ git clone <a href="[https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052](https://github.com/NatanR-dev/vanilla-php-rest-api)" style="color: #0ff;">https://github.com/NatanR-dev/vanilla-php-rest-api</a>
   /projects/open-source > Built a Vanilla PHP REST API, featuring JWT authentication and CRUD operations.
 
 <strong>natan@server:~$ dir /social</strong>
