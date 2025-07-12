@@ -8,7 +8,7 @@
 [DIR NOT FOUND... Redirecting...] 
   -> /projects/open-source > natan@server:~$ <strong><i>git clone <a href="https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052" style="color: #0ff;">https://github.com/NatanR-dev/vanilla-php-rest-api</i><strong/></a>
   -> /projects/open-source > Built a Vanilla PHP REST API, featuring JWT authentication and CRUD operations.
-+------------------+
+
 [Disconnecting... Done!]
 > |    
 </code>
