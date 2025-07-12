@@ -2,5 +2,5 @@
 <strong>natan@server:~$ cd /projects/open-source</strong>
   /projects/open-source > natan@server:~$ <strong><i>git clone <a href="https://github.com/NatanR-dev/vanilla-php-rest-api" style="color: #0ff;">https://github.com/NatanR-dev/vanilla-php-rest-api</i><strong/></a>
     
-&gt; wget <a href="https://ntnr-dev.surge.sh">ntnr.dev</a></strong>
+&gt; wget <a href="https://ntnr-dev.surge.sh" target="_blank">ntnr.dev</a></strong>
 </pre>
