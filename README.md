@@ -10,6 +10,7 @@
   -> /projects/open-source > Built a Vanilla PHP REST API, featuring JWT authentication and CRUD operations.
 
 [Disconnecting... Done!]
-> |    
+    
+&gt; wget <a href="https://ntnr-dev.surge.sh">ntnr.dev</a></strong>
 </code>
 </pre>
